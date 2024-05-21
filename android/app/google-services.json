@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "283205500530",
+    "project_id": "captura-97f07",
+    "storage_bucket": "captura-97f07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283205500530:android:2c65cbdf232a76c8668ceb",
+        "android_client_info": {
+          "package_name": "com.example.captura"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHtiwFZHDy32MGtjV1RYuG65NBzQaRdKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
